@@ -1,0 +1,23 @@
+{
+  "name": "figure-bed-web",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^2.1.6",
+    "element-plus": "^2.3.9",
+    "vue": "^3.3.4",
+    "axios": "^1.4.0",
+    "@element-plus/icons": "^0.0.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.6",
+    "unplugin-auto-import": "^0.16.6",
+    "unplugin-vue-components": "^0.25.1"
+  }
+}
